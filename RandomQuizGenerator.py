@@ -97,6 +97,8 @@ for quizNum in range(25):
     quizFile.close()
     answerKeyFile.close()
 
+# Sample of results of RandomQuizGenerator.py: https://drive.google.com/drive/folders/1BdIg5aehW8FbQaR4jq_3Whks6PnGJUY0?usp=sharing
+
 # while True:
 #     print('Type \"Exit\" to exit.')
 #     response = input().capitalize()
